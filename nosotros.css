@@ -1,0 +1,101 @@
+.titulo{
+    text-align: center;
+    font-size: 50px;
+    color:rgb(65, 134, 65)
+}
+
+.empresa h3{
+    margin-top: 25px;
+    margin-bottom: 15px;
+    /* color:rgb(65, 134, 65); */
+    margin-left: 20px;
+}
+
+.empresa p{
+  margin-left: 20px;
+}
+
+.valores{
+  margin-top: 10px;
+  /* color:rgb(65, 134, 65); */
+  margin-left: 20px;
+}
+
+
+.vision h3{
+  margin-top: 10px;
+  margin-left: 20px;
+  /* color: rgb(65, 134, 65); */
+}
+
+.vision p{
+  margin-left: 20px;
+}
+
+.confian{
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.carousel-item img{
+  height: 350px;
+  width: 30vh;
+  padding: 30px;
+  }
+
+.instagram{
+    border-radius: 8px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.facebook{
+    border-radius: 0px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+
+  footer {
+    background-color: #636363a2;
+    color: #fff;
+    padding: 30px 0;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer-content p {
+    margin: 0;
+    font-size: 20px;
+  }
+  
+  .footer-content ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-content ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  .footer-content ul li:last-child {
+    margin-right: 0;
+  }
+  
+  .footer-content ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .footer-content ul li a:hover {
+    text-decoration: underline;
+  }
+
